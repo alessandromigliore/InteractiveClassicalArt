@@ -2,7 +2,7 @@
 
 ## 1 User Experience Evaluation
 
-### 1.1 Task Success Rate ​ ![stars5](/images/stars5.jpg)
+### 1.1 Task Success Rate ​ ![stars](/images/stars5.jpg)
 
 The task success rate is the percentage of correctly completed tasks by users. This is
 probably the most commonly used performance metric that reflects how effectively
