@@ -62,7 +62,7 @@ with minimal development up-front and minimal loading during runtime.
 
 ### 2.1 Arduino IDE
 
-![IDE2](/images/IDE.jpg)
+![IDE3](/images/IDE.jpg)
 
 Arduino IDE is an open source software that is mainly used
 for writing and compiling the code into the Arduino
@@ -85,7 +85,7 @@ languages.
 
 ### 2.2 Thingsboard
 
-![thingsboard](/images/thingsboard.jpg)
+![thingsboard1](/images/thingsboard.jpg)
 
 ThingsBoard is an open-source IoT platform for
 data collection, processing, visualization, and
@@ -98,7 +98,7 @@ fault-tolerance and performance so you will never lose your data.
 
 ### 2.3 Telegram Bot Platform
 
-![telegram](/images/telegram.jpg)
+![telegram1](/images/telegram.jpg)
 
 Bots are third-party applications that run inside Telegram.
 Users can interact with bots by sending them messages,
@@ -110,7 +110,7 @@ Things.
 
 ### 2.4 MQTT
 
-![mqtt](/images/mqtt.jpg)
+![mqtt1](/images/mqtt.jpg)
 
 MQTT is one of the most commonly used protocols
 in IoT projects. It stands for Message Queuing
