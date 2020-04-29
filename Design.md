@@ -1,1 +1,12 @@
 #Design
+![slide1](/images/DesignSlide1.jpg)
+![slide2](/images/DesignSlide2.jpg)
+![slide3](/images/DesignSlide3.jpg)
+![slide4](/images/DesignSlide4.jpg)
+![slide5](/images/DesignSlide5.jpg)
+![slide6](/images/DesignSlide6.jpg)
+![slide7](/images/DesignSlide7.jpg)
+![slide8](/images/DesignSlide8.jpg)
+![slide9](/images/DesignSlide9.jpg)
+![slide10](/images/DesignSlide10.jpg)
+![slide11](/images/DesignSlide11.jpg)
