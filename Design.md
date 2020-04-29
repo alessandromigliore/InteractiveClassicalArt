@@ -1,5 +1,5 @@
 #Design
-![slide1](/images/DesignSlide1.jpg)
+![slide1](/images/DesignSlide1.JPG)
 ![slide2](/images/DesignSlide2.jpg)
 ![slide3](/images/DesignSlide3.jpg)
 ![slide4](/images/DesignSlide4.jpg)
