@@ -38,6 +38,8 @@ supply). With exposing to a 38 kHz infrared light, this output will be zero.
 
 ### 1.3 WiFi Module - ESP8266
 
+![wifi](/images/wifi.jpg)
+
 The ESP8266 is a low-cost WiFi microchip,
 with a full TCP/IP stack that can give any
 microcontroller access to your WiFi
@@ -60,6 +62,8 @@ with minimal development up-front and minimal loading during runtime.
 
 ### 2.1 Arduino IDE
 
+![IDE](/images/IDE.jpg)
+
 Arduino IDE is an open source software that is mainly used
 for writing and compiling the code into the Arduino
 Module. It is an official Arduino software, making code
@@ -81,6 +85,8 @@ languages.
 
 ### 2.2 Thingsboard
 
+![thingsboard](/images/thingsboard.jpg)
+
 ThingsBoard is an open-source IoT platform for
 data collection, processing, visualization, and
 device management.
@@ -92,6 +98,8 @@ fault-tolerance and performance so you will never lose your data.
 
 ### 2.3 Telegram Bot Platform
 
+![telegram](/images/telegram.jpg)
+
 Bots are third-party applications that run inside Telegram.
 Users can interact with bots by sending them messages,
 commands and inline requests. You control your bots using
@@ -101,6 +109,8 @@ connect, integrate with other services, or even pass commands to the Internet of
 Things.
 
 ### 2.4 MQTT
+
+![mqtt](/images/mqtt.jpg)
 
 MQTT is one of the most commonly used protocols
 in IoT projects. It stands for Message Queuing
@@ -115,6 +125,8 @@ implementation make the protocol ideal of the “machine-to-machine” or “Int
 Things” world.
 
 ## 3 Network architecture
+
+![schema](/images/schema.jpg)
 
 **Arduino UNO R3** board is connected to the infrared receiver (​ **IR Receiver Module** ​).
 When the IR receives a signal from a remote control, the board sends these signals to
