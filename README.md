@@ -1,1 +1,1 @@
-# InteractiveClassicalArt
+# Interactive Classical Art
