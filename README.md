@@ -1,4 +1,5 @@
 *Note: this repository has been created as part of our MSc degree at Sapienza University of Rome for the 2019/2020 Internet of Things course.*
+
 ![logoPiccolo](/images/interactiveLogoPiccolo.png)
 # Team
 [Alessandro Migliore](https://www.linkedin.com/in/alessandro-migliore-bab4631a3)
@@ -22,7 +23,7 @@ In this way the director of the museum can have a general view of the trends whe
 
 - Architecture [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Architecture.md) providing details on the technical aspects of the service.
 
-- Evaluation [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Evaluation.md) providing details on how to evaluate the produc
+- Evaluation [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Evaluation.md) providing details on how to evaluate the service.
 
 - [Video presentation]() of the service and the evaluation plan.
 - [Video presentation]() of the technical approach and architecture.
