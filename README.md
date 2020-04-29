@@ -1,10 +1,12 @@
 Note: this repository has been created as part of our MSc degree at Sapienza University of Rome for the 2019/2020 Internet of Things course.
 # Team
 Alessandro Migliore
+
 Lorella Landi
 
 # Idea
 ![logo](/images/interACtive.png)
+
 INTERACTIVE is a service for a Smart Museum and its goal is to transform the visitor's experience into an interactive and personalized adventure.
 A infrared receiver is installed near each artwork of the museum and the visitor is provided with a remote control and a personal Telegram bot. 
 When the visitor press the button of the remote control in front of an artwork, he starts an interactive conversation with the artwork! 
