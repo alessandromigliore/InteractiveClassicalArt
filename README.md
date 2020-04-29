@@ -1,8 +1,8 @@
 Note: this repository has been created as part of our MSc degree at Sapienza University of Rome for the 2019/2020 Internet of Things course.
 # Team
-Alessandro Migliore
+[Alessandro Migliore](https://www.linkedin.com/in/alessandro-migliore-bab4631a3)
 
-Lorella Landi
+[Lorella Landi](https://www.linkedin.com/in/lorella-landi-a485361a3/)
 
 # Idea
 ![logo](/images/interACtive.png)
@@ -14,3 +14,13 @@ In fact, after pressing the button, he receives a message on Telegram from the a
 
 Thanks to INTERACTIVE all the interactions with an artwork are saved in a database and the ranking of the most appreciated works of art is displayed on a web page.
 In this way the director of the museum can have a general view of the trends whenever he want, and can make decisions to improve his museum by analyzing the data.
+
+# Useful Links
+
+[Design](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Design.md)
+
+[Architecture](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Architecture.md)
+
+[Evaluation](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Evaluation.md)
+
+
