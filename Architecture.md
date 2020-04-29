@@ -34,9 +34,9 @@ signals. These modules work in 3, 8 KHz frequency. When the sensor is not expose
 to any light at its working frequency, the Vout output has a value equal to VS (power
 supply). With exposing to a 38 kHz infrared light, this output will be zero.
 
-### 1.3 WiFi Module - ESP
+### 1.3 WiFi Module - ESP8266
 
-The ESP8266 is a low-cost WiF​i microchip,
+The ESP8266 is a low-cost WiFi microchip,
 with a full TCP/IP stack that can give any
 microcontroller access to your WiFi
 network. The ESP8266 is capable of
