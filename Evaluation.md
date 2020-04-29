@@ -22,6 +22,7 @@ the task time is really minimal.
 ### 1.3 Usability *
 
 _* We need the opinion of the user to evaluate this parameter_
+
 The System Usability Scale (SUS) is one of the most widely used tools for assessing
 the perceived usability of a product by a user. Since this KPI is based on user survey
 and cannot be calculated simply based on statistical data, it requires user
