@@ -62,7 +62,7 @@ with minimal development up-front and minimal loading during runtime.
 
 ### 2.1 Arduino IDE
 
-![IDE](/images/IDE.jpg)
+
 
 Arduino IDE is an open source software that is mainly used
 for writing and compiling the code into the Arduino
