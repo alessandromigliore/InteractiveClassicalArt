@@ -19,7 +19,7 @@ which allows advanced users to reprogram it.
 
 ### 1.2 IR Transmitter and Receiver Kit
 
-![ir_receiver](/images/ir_receiver.jpg)
+![ir](/images/ir.jpg)
 
 IR, or infrared communication, is one of the
 most common methods of wireless
