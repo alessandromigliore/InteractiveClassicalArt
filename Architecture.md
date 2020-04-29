@@ -3,7 +3,7 @@
 ## 1 Hardware components
 
 ### 1.1 The Arduino Uno R
-
+![arduino](/images/arduino.jpg)
 The Arduino Uno is a microcontroller board based on the ATmega328. It has 14
 digital input/output pins, 6 analog inputs, a 16 MHz resonator, a USB connection, a
 power jack, an in-circuit system programming (ICSP) header, and a reset button. It
