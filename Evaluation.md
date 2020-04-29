@@ -11,7 +11,8 @@ the user must only be able to use a messaging application and a remote control.
 Since these tools are at the basis of everyday life, everyone knows how to use them,
 and consequently the task success rate is high.
 
-### 1.2 Task Time ​
+### 1.2 Task Time ​ ![stars2](/images/stars4.jpg)
+
 
 The task time is basically the amount of time it takes the user to complete the task,
 expressed in minutes and seconds. Time on task data can be analyzed and presented
@@ -34,7 +35,8 @@ level of agreement on a five-point scale.
 
 ## 2 Technical evaluation
 
-### 2.1 Required software
+### 2.1 Required software ![stars3](/images/stars3.jpg)
+
 
 It is required to use your smartphone and use the Telegram application with a
 personal account in order to access the museum bot.
@@ -42,12 +44,14 @@ The user may decide not to use an application that would require to be downloade
 only for visiting the museum, while Telegram in most cases is already present on the
 smartphone.
 
-### 2.2 Performance
+### 2.2 Performance ![stars4](/images/stars5.jpg)
+
 
 The Arduino infrared remote control, that we use for the demonstration, transmit
 distances up to 8 meters and is therefore fine for our application.
 
-### 2.3 Devices dimensions
+### 2.3 Devices dimensions ![stars5](/images/stars5.jpg)
+
 
 Our service uses simple pocket devices (a remote control and a smartphone), which
 do not hinder the user during the visit.
