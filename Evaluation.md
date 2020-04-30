@@ -22,7 +22,7 @@ The System Usability Scale (SUS) is one of the most widely used tools for assess
 ### 2.1 Required software ![stars3](/images/stars3.jpg)
 
 
-It is required to use your smartphone and use the Telegram application with a personal account in order to access the museum bot. The user may decide not to use an application that would require to be downloaded only for visiting the museum, while Telegram in most cases is already present on the smartphone.
+It is required to use your smartphone and use the Telegram application with a personal account in order to access the museum bot. The users may decide to don't use an application that would require to be downloaded only for visiting the museum, while Telegram in most cases is already present on their smartphones.
 
 ### 2.2 Performance ![stars4](/images/stars5.jpg)
 
@@ -32,4 +32,4 @@ The Arduino infrared remote control, that we use for the demonstration, transmit
 ### 2.3 Devices dimensions ![stars5](/images/stars5.jpg)
 
 
-Our service uses simple pocket devices (a remote control and a smartphone), which do not hinder the user during the visit.
+Our service uses simple pocket devices (a remote control and a smartphone), which don't hinder the user during the visit.
