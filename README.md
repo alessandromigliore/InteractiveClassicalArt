@@ -4,7 +4,7 @@
 
 [Lorella Landi](https://www.linkedin.com/in/lorella-landi-a485361a3/)
 
-**Design Advisor:** Andrea Nardone
+**Design Advisor:** [Andrea Nardone](https://www.linkedin.com/in/andrea-nardone-161740183/)
 
 # Idea
 ![logo](/images/interACtive.png)
