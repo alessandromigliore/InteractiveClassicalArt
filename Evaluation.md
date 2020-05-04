@@ -40,4 +40,4 @@ Initial investment costs:
 - WiFi module ≃ 5 €
 - IR receiver ≃ 5 €
 
-There are no other costs except the cost of the remote control battery when it needs to be changed (≃ 1€).
+There are no other costs except the cost of the remote control battery when it needs to be changed (≃ 1 €).
