@@ -35,8 +35,9 @@ The Arduino infrared remote control, that we use for the demonstration, transmit
 Our service uses simple pocket devices (a remote control and a smartphone), which don't hinder the user during the visit.
 
 ### 2.4 Costs ![stars3](/images/stars3.jpg)
-There are only the initial investment costs:
+Initial investment costs:
 - Arduino Uno board ≃ 25 €
 - WiFi module ≃ 5 €
 - IR receiver ≃ 5 €
 
+There are no other costs except the cost of the remote control battery when it needs to be changed (≃ 1€).
