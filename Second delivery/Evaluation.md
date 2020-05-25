@@ -29,3 +29,8 @@ Initial investment costs:
 - Hologram platform ( ≃ 30 €)
 - Device with sensors  ( ≃  100€)
 - Device to display 3D graphics ( ≃ 50€ )
+
+
+# Useful Links
+
+- Evaluation [previuos version](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Evaluation.md)
