@@ -13,8 +13,7 @@ INTERACTIVE is a service designed for the Sapienza Museum of Classical Art and i
 Near an artwork, the visitor will find an hologram of another work of the same author and can rotate it to admire it from every point of view. Simply moving a mobile phone to one direction, the hologram will rotate from the same direction. Moreover, only by shaking the phone, the visitor will discover other hologram-artworks of that author!
 
 
-So, even if the spaces of the museum are limited, the artworks exhibited can be infinite!
-Sometimes the artworks of the museum are transferred for a period and a visitor might not have found all the pieces of the exhibition. Now, thanks to INTERACTIVE the problem is solved because with the holograms the visitor can always find all the artworks!
+Thanks to INTERACTIVE the problem of artworks temporarily transferred is solved because with the holograms the visitor can always find all the artworks, and,  even if the spaces of the museum are limited, the artworks exhibited can be infinite!
 
 # Useful Links
 
