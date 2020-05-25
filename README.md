@@ -9,13 +9,12 @@
 # Idea
 ![logo](/images/interACtive.png)
 
-INTERACTIVE is a service designed for the Sapienza Museum of Classical Art and its goal is to transform the visitor's experience into an interactive and personalized adventure.
-A infrared receiver is installed near each artwork of the museum and the visitor is provided with a remote control and a personal Telegram bot. 
-When the visitor press the button of the remote control in front of an artwork, he starts an interactive conversation with the artwork! 
-In fact, after pressing the button, he receives a message on Telegram from the artwork and is able to ask it all about the work and the author, and to test his preparation with a quiz!
+INTERACTIVE is a service designed for the Sapienza Museum of Classical Art and its goal is to transform the visitor's experience into an interactive adventure.
+Near an artwork, the visitor will find an hologram of another work of the same author and can rotate it to admire it from every point of view. Simply moving a mobile phone to one direction, the hologram will rotate from the same direction. Moreover, only by shaking the phone, the visitor will discover other hologram-artworks of that author!
 
-Thanks to INTERACTIVE all the interactions with an artwork are saved in a database and the ranking of the most appreciated works of art is displayed on a web page.
-In this way the director of the museum can have a general view of the trends whenever he want, and can make decisions to improve his museum by analyzing the data.
+
+So, even if the spaces of the museum are limited, the artworks exhibited can be infinite!
+Sometimes the artworks of the museum are transferred for a period and a visitor might not have found all the pieces of the exhibition. Now, thanks to INTERACTIVE the problem is solved because with the holograms the visitor can always find all the artworks!
 
 # Useful Links
 
