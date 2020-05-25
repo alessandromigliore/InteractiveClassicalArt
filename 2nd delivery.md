@@ -20,6 +20,9 @@ By looking at the various opinions, we understood that a messaging service is no
 ### Architecture: 
 We replace the remote control and the Arduino board with the mobile phone sensors, so the new architecture is the following:
 
+
+![architecture](/images/architecture2.png)
+
 ### Evaluation plan: 
 We have adapted the criteria used for the evaluation, and the main changes are present in the section of costs and software required.
  
