@@ -15,13 +15,16 @@ Near an artwork, the visitor will find an hologram of another work of the same a
 
 Thanks to INTERACTIVE the problem of artworks temporarily transferred is solved because with the holograms the visitor can always find all the artworks, and,  even if the spaces of the museum are limited, the artworks exhibited can be infinite!
 
+# Useful Links First Delivery
+
+
 # Useful Links
 
-- Design [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Design.md) providing details on the service from the user point of view.
+- Design [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Design.md) providing details on the service from the user point of view.
 
-- Architecture [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Architecture.md) providing details on the technical aspects of the service.
+- Architecture [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Architecture.md) providing details on the technical aspects of the service.
 
-- Evaluation [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Evaluation.md) providing details on how to evaluate the service.
+- Evaluation [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Evaluation.md) providing details on how to evaluate the service.
 
 - [Video presentation](https://youtu.be/t0RmKrMV30Q) of the service and the evaluation plan.
 - [Video presentation](https://youtu.be/RbFbud1RUGk) of the technical approach and architecture.
