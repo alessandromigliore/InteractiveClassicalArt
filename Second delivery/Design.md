@@ -7,3 +7,8 @@
 ![slide2.6](/images/Design2Slide6.JPG)
 ![slide2.7](/images/Design2Slide7.JPG)
 ![slide2.8](/images/Design2Slide8.JPG)
+
+
+# Useful Links
+
+- Design [previuos version](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Design.md)
