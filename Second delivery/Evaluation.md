@@ -36,8 +36,8 @@ It is required the use of a browser compatible with the sensors.
 
 Initial investment costs:
 - Hologram platform ( ≃ 20 €)
-- Device with sensors  ( ≃  100€)
-- Device to display 3D graphics ( ≃ 50€ )
+- Device with sensors  ( ≃  100 €)
+- Device to display 3D graphics ( ≃ 50 €)
 
 
 # Useful Links
