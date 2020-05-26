@@ -17,6 +17,12 @@ _* We need the opinion of the user to evaluate this parameter_
 
 The System Usability Scale (SUS) is one of the most widely used tools for assessing the perceived usability of a product by a user. Since this KPI is based on user survey and cannot be calculated simply based on statistical data, it requires user participation. SUS is a way to quantify the qualitative data, like user’s perceived satisfaction of the product, and it consists of 10 statements to which users rate their level of agreement on a five-point scale.
 
+### 1.4 Accessibility ![stars5](/images/stars5.jpg)
+
+
+Accessibility allows users of all abilities to understand, use and enjoy the service. Our service is designed for all kind of users, and so, is accessible to everyone.
+
+
 ## 2 Technical evaluation
 
 ### 2.1 Required software ![stars5](/images/stars5.jpg)
