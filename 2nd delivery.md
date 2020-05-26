@@ -37,10 +37,10 @@ We have adapted the criteria used for the evaluation, and the main changes are p
 ### User experience evaluation
 - Task Success Rate ✔
 - Task Time ✔
+- Accessibility ✔
 - Usability ✘
 ### Technical evaluation
 - Required software ✔
-- Accessibility ✔
 - Accuracy ✘
 - Latency ✘
 - Costs ✔
