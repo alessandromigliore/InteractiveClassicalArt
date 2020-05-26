@@ -40,8 +40,11 @@ We have adapted the criteria used for the evaluation, and the main changes are p
 - Usability ✘
 ### Technical evaluation
 - Required software ✔
-- Sensors accuracy  ✘
+- Accessibility ✔
+- Accuracy ✘
+- Latency ✘
 - Costs ✔
 ## 5 What we expect to evaluate
 - The perceived usability of the product through System Usability Scale
-- Sensors accuracy
+- Accuracy
+- Latency
