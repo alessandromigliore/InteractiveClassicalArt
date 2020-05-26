@@ -48,3 +48,4 @@ We have adapted the criteria used for the evaluation, and the main changes are p
 - The perceived usability of the product through System Usability Scale
 - Accuracy
 - Latency
+- Improve the evaluation of the Task Success Rate by measuring it with real data
