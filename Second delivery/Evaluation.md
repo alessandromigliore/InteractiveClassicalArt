@@ -35,7 +35,7 @@ It is required the use of a browser compatible with the sensors.
 ### 2.2 Costs ![stars3](/images/stars3.jpg)
 
 Initial investment costs:
-- Hologram projector ( ≃ 20 €)
+- Hologram projector structure ( ≃ 20 €)
 - Device with sensors  ( ≃  100 €)
 - Device to display 3D graphics ( ≃ 50 €)
 
