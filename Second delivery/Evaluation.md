@@ -29,6 +29,9 @@ Accessibility allows users of all abilities to understand, use and enjoy the ser
 
 It is required the use of a browser compatible with the sensors.
 
+![browserComp](/images/BrowserCompatibility.png)
+
+
 ### 2.2 Costs ![stars3](/images/stars3.jpg)
 
 Initial investment costs:
