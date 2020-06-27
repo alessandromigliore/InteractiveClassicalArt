@@ -4,7 +4,8 @@
 
 ### 1.1 Task Success Rate ![stars4](/images/stars4.jpg)
 
-The task success rate is the percentage of correctly completed tasks by users. This is probably the most commonly used performance metric that reflects how effectively users are able to completing certain tasks. In our case to complete the task, the user only has to rotate a device in the same way he wants to rotate the artwork, to admire it from every point of view. Also to view the next artwork, we opted for a device shake to make the experience as simple as possible (All instructions are shown on the device in front of the user).
+The task success rate is the percentage of correctly completed tasks by users. This is probably the most commonly used performance metric that reflects how effectively users are able to completing certain tasks. In our case to complete the task, the user only has to rotate a device in the same way he wants to rotate the artwork, to admire it from every point of view. Also, to view the next artwork, we opted for the shake of the device to make the experience as simple as possible (All instructions are shown on the device in front of the user). 
+After analyzing the experience of 17 users, we found that the task success rate is ≃ 89%.
 
 ### 1.2 Task Time ![stars5](/images/stars5.jpg)
 
@@ -44,7 +45,7 @@ It is required the use of a browser compatible with the sensors.
 
 ### 2.2 Latency ![stars4](/images/stars4.jpg)
 
-The time between the rotation of the smartphone and the hologram rotation is approximately milliseconds.
+The time between the rotation of the smartphone and the hologram rotation is ≃ milliseconds.
 
 ### 2.3 Costs ![stars3](/images/stars3.jpg)
 
