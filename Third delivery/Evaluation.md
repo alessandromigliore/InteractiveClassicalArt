@@ -42,7 +42,11 @@ It is required the use of a browser compatible with the sensors.
 ![browserComp](/images/BrowserCompatibility.png)
 
 
-### 2.2 Costs ![stars3](/images/stars3.jpg)
+### 2.2 Latency ![stars4](/images/stars4.jpg)
+
+The time between the rotation of the smartphone and the hologram rotation is approximately milliseconds.
+
+### 2.3 Costs ![stars3](/images/stars3.jpg)
 
 Initial investment costs:
 - Hologram projector structure ≃ 20 €
