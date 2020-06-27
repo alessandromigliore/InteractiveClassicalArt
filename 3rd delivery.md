@@ -1,4 +1,4 @@
-# 2nd Delivery
+# 3nd Delivery
 ## 1 Comments received and decisions made
 _"Nice the idea of a Telegram interaction, but where is the IoT?"_
 
