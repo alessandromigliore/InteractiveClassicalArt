@@ -58,4 +58,5 @@ Initial investment costs:
 
 # Useful Links
 
-- Evaluation [previuos version](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Evaluation.md)
+- Evaluation [version 1](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Evaluation.md)
+- Evaluation [version 2](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Second%20delivery/Evaluation.md)
