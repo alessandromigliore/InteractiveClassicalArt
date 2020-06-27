@@ -11,11 +11,21 @@ The task success rate is the percentage of correctly completed tasks by users. T
 
 The task time is basically the amount of time it takes the user to complete the task, expressed in minutes and seconds. Time on task data can be analyzed and presented in different ways, but the most common way is to present the average time spent on each task. The user has to make simple actions to complete the task, so the task time is really minimal.
 
-### 1.3 Usability *
-
-_* We need the opinion of the user to evaluate this parameter_
+### 1.3 Usability ![stars5](/images/stars5.jpg)
 
 The System Usability Scale (SUS) is one of the most widely used tools for assessing the perceived usability of a product by a user. Since this KPI is based on user survey and cannot be calculated simply based on statistical data, it requires user participation. SUS is a way to quantify the qualitative data, like user’s perceived satisfaction of the product, and it consists of 10 statements to which users rate their level of agreement on a five-point scale.
+
+![sus](/images/SUS.png)
+![sus1](/images/SUS1.png)
+![sus2](/images/SUS2.png)
+![sus3](/images/SUS3.png)
+![sus4](/images/SUS4.png)
+![sus5](/images/SUS5.png)
+![sus6](/images/SUS6.png)
+![sus7](/images/SUS7.png)
+![sus8](/images/SUS8.png)
+![sus9](/images/SUS9.png)
+
 
 ### 1.4 Accessibility ![stars4](/images/stars4.jpg)
 
