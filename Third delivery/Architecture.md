@@ -34,7 +34,7 @@ An average 5mm Yellow LED has a 2V forward voltage drop, and a forward current o
 
 ### 2.1 Generic Sensor API
 
-![GSA](/images/GSA.gif)
+![orientationGIF](/images/orientationGIF.gif)
 
 The Generic Sensor API is a set of interfaces which expose sensor devices to the web platform. The API consists of the base Sensor interface and a set of concrete sensor classes built on top, such as Accelerometer, LinearAccelerationSensor, Gyroscope, AbsoluteOrientationSensor and RelativeOrientationSensor.
 
@@ -110,4 +110,4 @@ Also through our Wi-Fi module ( ESP8266 ) connected to the Arduino UNO board , w
 # Useful Links
 
 - Architecture [version 1](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/First%20delivery/Architecture.md)
-- Archietcture [version 2](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Second%20delivery/Architecture.md)
+- Architecture [version 2](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Second%20delivery/Architecture.md)
