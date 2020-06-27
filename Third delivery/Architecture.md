@@ -2,7 +2,7 @@
 
 ## 1 Hardware components
 
-### 1.1 Smartphone ( Web App )
+### 1.1 Smartphone
 
 ![smartphone](/images/smartphone.png)
 
@@ -84,14 +84,14 @@ Things” world.
 
 Arduino IDE is an open source software that is mainly used for writing and compiling the code into the Arduino Module. It is an official Arduino software, making code compilation too easy that even a common person with no prior technical knowledge can get their feet wet with the learning process. It is easily available for operating systems like MAC, Windows, Linux and runs on the Java Platform that comes with inbuilt functions and commands that play a vital role for debugging, editing and compiling the code in the environment. A range of Arduino modules available including Arduino Uno, Arduino Mega, Arduino Leonardo, Arduino Micro and many more. Each of them contains a microcontroller on the board that is actually programmed and accepts the information in the form of code. The main code, also known as a sketch, created on the IDE platform will ultimately generate a Hex File which is then transferred and uploaded in the controller on the board. The IDE environment mainly contains two basic parts: Editor and Compiler where former is used for writing the required code and later is used for compiling and uploading the code into the given Arduino Module. This environment supports both C and C++ languages.
 
-### 2.6 Eclipse mosquitto
+### 2.6 Eclipse Mosquitto
 
 ![mosquitto](/images/Mosquitto.png)
 
 Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for Internet of Things messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers.
 
-### 2.7 Eclipse paho
+### 2.7 Eclipse Paho
 
 ![paho](/images/paho.png)
 
