@@ -1,18 +1,8 @@
 # 3nd Delivery
 ## 1 Comments received and decisions made
-_"Nice the idea of a Telegram interaction, but where is the IoT?"_
+_"I don’t see any embedded system"_ 
 
-
-After the discussion on the first delivery, we decided to focus our service most on IoT functionality. We started by eliminating the use of Telegram, to focus no longer on a messaging application but on the user’s interaction through sensors.
-
-
-_"Why the button and not a beacon? What is the advantage?"_
-
-
-The initial architecture used an infrared remote, but this tool is now obsolete, because there are alternative methods more interactive. So, we replace the remote control with a smartphone containing these sensors:
-- accelerometer
-- magnetometer 
-- gyroscope
+After the discussion we decided to add an LED connected to a Wi-Fi module via Arduino.
  
 ## 2 Changes made
 ### Design: 
