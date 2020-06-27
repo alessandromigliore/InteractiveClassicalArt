@@ -6,7 +6,7 @@
 
 ![smartphone](/images/smartphone.png)
 
-The smartphone is the key point of the entire system, it shows all the author’s works in 3D graphics, and the user through the use of sensors on the device ( accelerometer, magnetometer, gyroscope) can rotate the image that is projected on the platform.
+The smartphone is the key point of the entire system, it shows all the author’s works in 3D graphics, and the user through the use of sensors on the device (accelerometer and gyroscope) can rotate the image that is projected on the platform.
 
 
 ### 1.2 The Arduino Uno R3
