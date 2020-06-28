@@ -1,6 +1,6 @@
 # Design
 ![slide1](/images/DesignSlide1.JPG)
-![slide3.2](/images/Design3Slide2.jpg)
+![slide3.2](/images/Design3Slide2new.jpg)
 ![slide3](/images/DesignSlide3.JPG)
 ![slide2.4](/images/Design2Slide4.JPG)
 ![slide2.5](/images/Design2Slide5.JPG)
