@@ -14,7 +14,7 @@ The smartphone is the key point of the entire system, it shows all the author’
 ![arduino](/images/arduino.jpg)
 
 The Arduino Uno is a microcontroller board based on the ATmega328. It has 14 digital input/output pins, 6 analog inputs, a 16 MHz resonator, a USB connection, a power jack, an in-circuit system programming (ICSP) header, and a reset button. It contains everything needed to support the microcontroller; simply connecting it to a computer with a USB cable or powering it with a battery to get started.
-The Uno differs from all preceding Arduino boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features an ATmega16U2 programmed as a USB-to-serial converter. This auxiliary microcontroller has its own USB bootloader, which allows advanced users to reprogram it.
+The Uno differs from all preceding Arduino boards in that it does not use the FTDI USB-to-serial driver chip. Instead, it features an ATmega16U2 programmed as a USB-to-serial converter. This auxiliary microcontroller has its USB bootloader, which allows advanced users to reprogram it.
 
 
 ### 1.3 WiFi Module - ESP8266
@@ -27,7 +27,7 @@ The ESP8266 is a low-cost WiFi microchip, with a full TCP/IP stack that can give
 
 ![led](/images/yellowLed.jpg)
 
-An average 5mm Yellow LED has a 2V forward voltage drop, and a forward current of 20mA. Bright Yellow LEDs can have a forward voltage as high as 3.4V.
+An average 5mm Yellow LED has a 2V forward voltage drop and a forward current of 20mA. Bright Yellow LEDs can have a forward voltage as high as 3.4V.
 
 
 ## 2 Software components
@@ -36,9 +36,9 @@ An average 5mm Yellow LED has a 2V forward voltage drop, and a forward current o
 
 ![orientationGIF](/images/orientationGIF.gif)
 
-The Generic Sensor API is a set of interfaces which expose sensor devices to the web platform. The API consists of the base Sensor interface and a set of concrete sensor classes built on top, such as Accelerometer, LinearAccelerationSensor, Gyroscope, AbsoluteOrientationSensor and RelativeOrientationSensor.
+The Generic Sensor API is a set of interfaces that expose sensor devices to the web platform. The API consists of the base Sensor interface and a set of concrete sensor classes built on tops, such as Accelerometer, LinearAccelerationSensor, Gyroscope, AbsoluteOrientationSensor, and RelativeOrientationSensor.
 
-The Generic Sensor API is very simple and easy-to-use. The Sensor interface has start() and stop() methods to control sensor state and several event handlers for receiving notifications about sensor activation, errors and newly available readings. The concrete sensor classes usually add their specific reading attributes to the base class.
+The Generic Sensor API is very simple and easy-to-use. The Sensor interface has start() and stop() methods to control sensor state and several event handlers for receiving notifications about sensor activation, errors, and newly available readings. The concrete sensor classes usually add their specific reading attributes to the base class.
 
 
 ### 2.2 Thingsboard
@@ -49,7 +49,7 @@ ThingsBoard is an open-source IoT platform for
 data collection, processing, visualization, and
 device management.
 It enables device connectivity via industry
-standard IoT protocols - MQTT, CoAP and HTTP
+standard IoT protocols - MQTT, CoAP and, HTTP
 and supports both cloud and on-premises
 deployments. ThingsBoard combines scalability,
 fault-tolerance and performance so you will never lose your data.
@@ -69,7 +69,7 @@ Three.js is often confused with WebGL since more often than not, but not always,
 MQTT is one of the most commonly used protocols
 in IoT projects. It stands for Message Queuing
 Telemetry Transport.
-In addition, it is designed as a lightweight messaging
+Also, it is designed as a lightweight messaging
 protocol that uses publish/subscribe operations to
 exchange data between clients and the server.
 Furthermore, its small size, low power usage, minimized data packets and ease of
@@ -82,13 +82,13 @@ Things” world.
 
 ![IDE3](/images/IDE.jpg)
 
-Arduino IDE is an open source software that is mainly used for writing and compiling the code into the Arduino Module. It is an official Arduino software, making code compilation too easy that even a common person with no prior technical knowledge can get their feet wet with the learning process. It is easily available for operating systems like MAC, Windows, Linux and runs on the Java Platform that comes with inbuilt functions and commands that play a vital role for debugging, editing and compiling the code in the environment. A range of Arduino modules available including Arduino Uno, Arduino Mega, Arduino Leonardo, Arduino Micro and many more. Each of them contains a microcontroller on the board that is actually programmed and accepts the information in the form of code. The main code, also known as a sketch, created on the IDE platform will ultimately generate a Hex File which is then transferred and uploaded in the controller on the board. The IDE environment mainly contains two basic parts: Editor and Compiler where former is used for writing the required code and later is used for compiling and uploading the code into the given Arduino Module. This environment supports both C and C++ languages.
+Arduino IDE is an open source software that is mainly used for writing and compiling the code into the Arduino Module. It is an official Arduino software, making code compilation too easy that even a common person with no prior technical knowledge can get their feet wet with the learning process. It is easily available for operating systems like MAC, Windows, Linux and runs on the Java Platform that comes with inbuilt functions and commands that play a vital role in debugging, editing, and compiling the code in the environment. A range of Arduino modules available including Arduino Uno, Arduino Mega, Arduino Leonardo, Arduino Micro, and many more. Each of them contains a microcontroller on the board that is programmed and accepts the information in the form of code. The main code, also known as a sketch, created on the IDE platform will ultimately generate a Hex File which is then transferred and uploaded in the controller on the board. The IDE environment mainly contains two basic parts: Editor and Compiler where the former is used for writing the required code, and the later is used for compiling and uploading the code into the given Arduino Module. This environment supports both C and C++ languages.
 
 ### 2.6 Eclipse Mosquitto
 
 ![mosquitto](/images/Mosquitto.png)
 
-Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
+Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1, and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for Internet of Things messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers.
 
 ### 2.7 Eclipse Paho
@@ -96,7 +96,7 @@ The MQTT protocol provides a lightweight method of carrying out messaging using 
 ![paho](/images/paho.png)
 
 The Eclipse Paho project provides open-source client implementations of MQTT and MQTT-SN messaging protocols aimed at new, existing, and emerging applications for the Internet of Things.
-Paho focuses on reliable implementations that will integrate with a wide range of middleware, programming and messaging models.
+Paho focuses on reliable implementations that will integrate with a wide range of middleware, programming, and messaging models.
 
 
 ## 3 Network architecture
