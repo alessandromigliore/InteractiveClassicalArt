@@ -4,17 +4,17 @@
 
 ### 1.1 Task Success Rate ![stars4](/images/stars4.jpg)
 
-The task success rate is the percentage of correctly completed tasks by users. This is probably the most commonly used performance metric that reflects how effectively users are able to completing certain tasks. In our case to complete the task, the user only has to rotate a device in the same way he wants to rotate the artwork, to admire it from every point of view. Also, to view the next artwork, we opted for the shake of the device to make the experience as simple as possible (All instructions are shown on the device in front of the user). 
+The task success rate is the percentage of correctly completed tasks by users. This is probably the most commonly used performance metric that reflects how effectively users are able to complete certain tasks. In our case to complete the task, the user only has to rotate a device in the same way he wants to rotate the artwork, to admire it from every point of view. Also, to view the next artwork, we opted for the shake of the device to make the experience as simple as possible (All instructions are shown on the device in front of the user). 
 After analyzing the experience of 17 users, we found that the task success rate is ≃ 89%.
 
 ### 1.2 Task Time ![stars5](/images/stars5.jpg)
 
 
-The task time is basically the amount of time it takes the user to complete the task, expressed in minutes and seconds. Time on task data can be analyzed and presented in different ways, but the most common way is to present the average time spent on each task. The user has to make simple actions to complete the task, so the task time is really minimal.
+The task time is the amount of time it takes the user to complete the task, expressed in minutes and seconds. Time on task data can be analyzed and presented in different ways, but the most common way is to present the average time spent on each task. The user has to make simple actions to complete the task, so the task time is really minimal.
 
 ### 1.3 Usability ![stars5](/images/stars5.jpg)
 
-The System Usability Scale (SUS) is one of the most widely used tools for assessing the perceived usability of a product by a user. Since this KPI is based on user survey and cannot be calculated simply based on statistical data, it requires user participation. SUS is a way to quantify the qualitative data, like user’s perceived satisfaction of the product, and it consists of 10 statements to which users rate their level of agreement on a five-point scale.
+The System Usability Scale (SUS) is one of the most widely used tools for assessing the perceived usability of a product by a user. Since this KPI is based on user survey and cannot be calculated simply based on statistical data, it requires user participation. SUS is a way to quantify the qualitative data like the user’s perceived satisfaction of the product, and it consists of 10 statements to which users rate their level of agreement on a five-point scale.
 
 ![sus](/images/SUS.png)
 ![sus1](/images/SUS1.png)
@@ -31,7 +31,7 @@ The System Usability Scale (SUS) is one of the most widely used tools for assess
 ### 1.4 Accessibility ![stars4](/images/stars4.jpg)
 
 
-Accessibility allows users of all abilities to understand, use and enjoy the service. Our service is designed for almost all kind of users, and is accessible to everyone except for blind people.
+Accessibility allows users of all abilities to understand, use, and enjoy the service. Our service is designed for almost all kinds of users and is accessible to everyone except for blind people.
 
 
 ## 2 Technical evaluation
