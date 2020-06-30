@@ -109,7 +109,8 @@ Paho focuses on reliable implementations that will integrate with a wide range o
 ![schema](/images/architecture3.png)
 
 Using the Generic Sensor API we collect the data of the device sensors (accelerometer and gyroscope) and transfer them via MQTT to the Mosquitto MQTT broker connected to Thingsboard. Finally, a web page receives the values of the sensors passed by Thingsboard and use them to dynamically rotate the 3D graphic models of the sculpture (created with Three.js) in order to realize the images to be projected as a hologram.
-Also, through the ESP8266 WiFi module, connected to the Arduino UNO board, we receive the values analyzed by Thingsboard and a yellow LED, connected to the board, lights up when the user is observing the most appreciated artwork.
+Always using the MQTT bridge, the values of the feedbacks are sent to ThingsBoard and analyzed through a Rule Chain.
+Using an ESP8266 WiFi module, connected to an Arduino UNO board, the values analyzed by ThingsBoard are received, and a yellow LED, connected to the board, lights up when the user is observing the most appreciated artwork.
 
 
 # Useful Links
