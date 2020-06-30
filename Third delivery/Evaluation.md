@@ -45,7 +45,7 @@ It is required the use of a browser compatible with the sensors.
 
 ### 2.2 Latency ![stars4](/images/stars4.jpg)
 
-The time between the rotation of the smartphone and the hologram rotation is ≃ milliseconds.
+the time between the rotation of the smartphone and the hologram rotation is few milliseconds, while the time between the shaking of the mobile phone and the appearance of the new hologram is 1-2 seconds.
 
 ### 2.3 Costs ![stars3](/images/stars3.jpg)
 
@@ -55,6 +55,9 @@ Initial investment costs:
 - Device to display 3D graphics ≃ 50 €
 - Arduino Uno board ≃ 25 €
 - WiFi module ≃ 5 €
+
+Maintenance costs: 
+The cost of WiFi connection (but this is supposed to be already present in the museum) and the cost related to the energy consumed by the devices.
 
 
 # Useful Links
