@@ -24,7 +24,9 @@ Thanks to INTERACTIVE the problem of artworks temporarily transferred is solved 
 
 - Evaluation [document](https://github.com/alessandromigliore/InteractiveClassicalArt/blob/master/Third%20delivery/Evaluation.md) providing details on how to evaluate the service.
 
-- [Demo]() on Youtube. 
+- [Post](https://www.hackster.io/lorella-landi/interactive-smart-museum-1ccb86) on Hackster.io.
+
+- [Demo](https://www.youtube.com/watch?v=gDAvvzsHEMY&feature=youtu.be) on Youtube. 
 
 # Useful Links (2nd delivery)
 
