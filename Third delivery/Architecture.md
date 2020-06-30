@@ -29,6 +29,11 @@ The ESP8266 is a low-cost WiFi microchip, with a full TCP/IP stack that can give
 
 An average 5mm Yellow LED has a 2V forward voltage drop and a forward current of 20mA. Bright Yellow LEDs can have a forward voltage as high as 3.4V.
 
+### 1.5 Arduino schematics
+The LED is connected to a GPIO pin of the ESP8266 WiFi module, and the power is taken from the Arduino Uno board
+
+![sketch](/images/SmartMuseumSketch_bb.png)
+
 
 ## 2 Software components
 
